@@ -41,11 +41,6 @@
 
 ## 📊 GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&hide_border=true&theme=tokyonight" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&hide_border=true&theme=tokyonight" />
-
-<img height="165" src="https://streak-stats.demolab.com?user=TU_USERNAME&hide_border=true&theme=tokyonight" />
-
 ---
 
 ## 📫 How to reach me
